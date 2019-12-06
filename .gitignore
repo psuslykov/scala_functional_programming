@@ -1,0 +1,16 @@
+# Development tools
+.idea
+target
+project
+spark-warehouse
+*.iml
+
+# Data files
+data
+*.zip
+*.csv
+*.txt
+*.parquet
+
+#libraries
+lib
